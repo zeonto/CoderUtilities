@@ -1,0 +1,10 @@
+{
+    "dependencies":[],
+    "description":"A coder's utilities tools plugin for Sublime Text",
+    "platforms":[
+        "*"
+    ],
+    "sublime_text":"*",
+    "url":"https://github.com/zeonto/CoderUtilities",
+    "version":"1.0.0"
+}

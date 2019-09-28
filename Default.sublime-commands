@@ -1,0 +1,42 @@
+[
+    {
+        "caption": "CoderUtilities: URL Encode",
+        "command": "url_encode"
+    },
+    {
+        "caption": "CoderUtilities: URL Decode",
+        "command": "url_decode"
+    },
+    {
+        "caption": "CoderUtilities: Insert Unix Time",
+        "command": "get_unix_time"
+    },
+    {
+        "caption": "CoderUtilities: Insert Current Time",
+        "command": "get_current_time"
+    },
+    {
+        "caption": "CoderUtilities: Convert Time To",
+        "command": "convert_time_to"
+    },
+    {
+        "caption": "CoderUtilities: MD5",
+        "command": "md5"
+    },
+    {
+        "caption": "CoderUtilities: Json Compress Unicode Sort",
+        "command": "json_compress_unicode_sort"
+    },
+    {
+        "caption": "CoderUtilities: Json Pertty Unicode Sort",
+        "command": "json_pertty_unicode_sort"
+    },
+    {
+        "caption": "CoderUtilities: Url Request Decompress",
+        "command": "url_request_decompress"
+    },
+    {
+        "caption": "CoderUtilities: Decompress",
+        "command": "decompress"
+    }
+]

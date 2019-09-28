@@ -1,0 +1,19 @@
+[
+	{"caption" : "-", "id" : "coder-utilities-begin"},
+	{
+		"caption" : "CoderUtilities Tools",
+		"id" : "context-convert",
+		"children" :
+		[
+            {"command": "url_encode", "caption" : "URL Encode"},
+            {"command": "url_decode", "caption" : "URL Decode"},
+            {"command": "get_unix_time", "caption" : "Insert Unix Time"},
+            {"command": "get_current_time", "caption" : "Insert Current Time"},
+            {"command": "convert_time_to", "caption" : "Convert Time To"},
+            {"command": "md5", "caption" : "Md5"},
+            {"command": "json_compress_unicode_sort", "caption" : "Json Compress Unicode Sort"},
+            {"command": "json_pertty_unicode_sort", "caption" : "Json Pertty Unicode Sort"},
+		]
+	},
+	{"caption" : "-", "id" : "coder-utilities-end"}
+]
